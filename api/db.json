@@ -1,0 +1,79 @@
+{
+  "activejobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "TechNova Inc.",
+      "location": "Bangalore, India",
+      "salary": "₹6,00,000 - ₹10,00,000",
+      "type": "Full-time",
+      "description": "Work on React-based UI development and responsive design implementation.",
+      "rating": "4.5",
+      "reviews": "132",
+      "experience": "2-4 years",
+      "skills": [
+        "React",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=2147483647&v=beta&t=IqnGNJxS4J-yaL4rgLBlx-cbNAbFwpEMCRvkkLXsR48",
+      "posted": "2 days ago"
+    }
+    
+  ],
+  "company": [
+    {
+      "id": "1",
+      "company_name": "Google",
+      "company_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "company_about": "Google is an American multinational technology company that specializes in Internet-related services and products, including a search engine, online advertising technologies, cloud computing, software, and hardware. It is a subsidiary of Alphabet Inc.",
+      "company_website": "https://www.google.com/",
+      "company_location": "Mountain View, CA",
+      "company_email": "contact@google.com",
+      "company_founded": "1998",
+      "company_size": "100,000+",
+      "company_linked_in": "https://www.linkedin.com/company/google",
+      "company_facebook": "https://www.facebook.com/Google",
+      "company_twitter_X": "https://twitter.com/google"
+    }
+
+  ],
+  "register": [
+    {
+      "id": "7fdf",
+      "Emp_Id": "jas$766",
+      "First_Name": "Jaswanth",
+      "Last_Name": "Babu",
+      "company": "Flipkart",
+      "Email": "jaswanth@gmail.com",
+      "Password": "Jas@123",
+      "confirm_password": "Jas@123",
+      "Phone": "9133539191",
+      "Job_role": "Full Stack Developer"
+    }
+   
+  ],
+  "student_register": [
+    {
+      "id": "96d7",
+      "name": "jaswanth",
+      "email": "jaswanth@gmail.com",
+      "password": "123"
+    }
+  ],
+  "application_data": [
+    {
+      "id": "5f85",
+      "student_fullName": "Jaswanth",
+      "student_email": "babu@gmail.com",
+      "student_phone": "9133539050",
+      "student_resume": "Jas_resume.pdf",
+      "student_coverLetter": "",
+      "title": "Full Stack Web Developer",
+      "company": "Oppo",
+      "Emp_Id": "sha_171"
+    }
+  
+  ]
+}
